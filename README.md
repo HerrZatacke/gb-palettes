@@ -1,8 +1,20 @@
 # gb-palettes
 
 ## Usage
+`npm install gb-palettes`
+
+Importing all palettes:  
+`const palettes = require('gb-palettes');`   
+
+Importing a subset:  
+`const devicePalettes = require('gb-palettes/devices.js');`     
+
+Importing a single palette:  
+`const gbPocketColors = require('gb-palettes/palettes/gbpocket.js');`     
 
 ## List of Palettes
+<!-- LIST_START -->
+<!-- LIST_END -->
 
 ## contributing
 Contributions of new palettes is very welcome. If you want to do so, please create a pull-request which contains:
