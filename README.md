@@ -35,7 +35,7 @@ Importing a single palette:
 | gbcr | Game Boy Color Splash Right | ![gbcr](previews/gbcr.svg "Palette: gbcr") | Devices, GBColor | Wikipedia |
 | gbceuus | Game Boy Color Splash Right+A (Game Boy Camera, EU/US) | ![gbceuus](previews/gbceuus.svg "Palette: gbceuus") | Devices, GBColor | Wikipedia |
 | gbcrb | Game Boy Color Splash Right+B | ![gbcrb](previews/gbcrb.svg "Palette: gbcrb") | Devices, GBColor | Wikipedia |
-| cybl | Cyanide Blues | ![cybl](previews/cybl.svg "Palette: cybl") | Creative |  |
+| cybl | Cyanide Blues | ![cybl](previews/cybl.svg "Palette: cybl") | Creative | by HerrZatacke |
 | aqpp | Audi Quattro Pikes Peak | ![aqpp](previews/aqpp.svg "Palette: aqpp") | Creative |  |
 | wtfp | Waterfront Plaza | ![wtfp](previews/wtfp.svg "Palette: wtfp") | Creative |  |
 | chig | Childhood in Greenland | ![chig](previews/chig.svg "Palette: chig") | Creative |  |
@@ -62,15 +62,15 @@ Importing a single palette:
 | vb85 | Virtual Boy 1985 | ![vb85](previews/vb85.svg "Palette: vb85") | Creative |  |
 | azc | Azure Clouds | ![azc](previews/azc.svg "Palette: azc") | Creative |  |
 | gelc | Golden Elephant Curry | ![gelc](previews/gelc.svg "Palette: gelc") | Creative |  |
-| roga | Romero’s Garden | ![roga](previews/roga.svg "Palette: roga") | Creative |  |
-| kditw | Knee-Deep in the Wood | ![kditw](previews/kditw.svg "Palette: kditw") | Creative |  |
-| dimwm | Dies ist meine Wassermelone | ![dimwm](previews/dimwm.svg "Palette: dimwm") | Creative |  |
-| spezi | My Friend from Bavaria | ![spezi](previews/spezi.svg "Palette: spezi") | Creative |  |
-| ffs | Flowerfeldstraße | ![ffs](previews/ffs.svg "Palette: ffs") | Creative |  |
-| banana | There’s always money | ![banana](previews/banana.svg "Palette: banana") | Creative |  |
-| hipster | Artistic Caffeinated Lactose | ![hipster](previews/hipster.svg "Palette: hipster") | Creative |  |
-| nc | Nortorious Comandante | ![nc](previews/nc.svg "Palette: nc") | Creative |  |
-| glmo | Glowing Mountains | ![glmo](previews/glmo.svg "Palette: glmo") | Creative |  |
+| roga | Romero’s Garden | ![roga](previews/roga.svg "Palette: roga") | Creative | by HerrZatacke |
+| kditw | Knee-Deep in the Wood | ![kditw](previews/kditw.svg "Palette: kditw") | Creative | by HerrZatacke |
+| dimwm | Dies ist meine Wassermelone | ![dimwm](previews/dimwm.svg "Palette: dimwm") | Creative | by HerrZatacke |
+| spezi | My Friend from Bavaria | ![spezi](previews/spezi.svg "Palette: spezi") | Creative | by HerrZatacke |
+| ffs | Flowerfeldstraße | ![ffs](previews/ffs.svg "Palette: ffs") | Creative | by HerrZatacke |
+| banana | There’s always money | ![banana](previews/banana.svg "Palette: banana") | Creative | by HerrZatacke |
+| hipster | Artistic Caffeinated Lactose | ![hipster](previews/hipster.svg "Palette: hipster") | Creative | by HerrZatacke |
+| nc | Nortorious Comandante | ![nc](previews/nc.svg "Palette: nc") | Creative | by HerrZatacke |
+| glmo | Glowing Mountains | ![glmo](previews/glmo.svg "Palette: glmo") | Creative | by HerrZatacke |
 <!-- LIST_END -->
 
 ## contributing
