@@ -39,6 +39,10 @@ const mdTable = all.map(({
   palette,
   origin = '',
 }) => {
+  if (palette.join() !== palette.join().toLowerCase()) {
+    throw new Error(`Found uppercase char in color string of palette ${shortName}`);
+  }
+
   return `| ${shortName} | ${name} | ${createPreview(shortName, palette)} | ${categoriesText(shortName)} | ${origin} |\n`
 });
 

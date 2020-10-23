@@ -1,6 +1,6 @@
 module.exports = {
   shortName: 'gbcla',
   name: 'Game Boy Color Splash Left+A',
-  palette: ['#FFFFFF', '#8B8CDE', '#53528C', '#000000'],
+  palette: ['#ffffff', '#8b8cde', '#53528c', '#000000'],
   origin: 'Wikipedia',
 };
