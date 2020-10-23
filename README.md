@@ -86,7 +86,7 @@ Contributions of new palettes is very welcome. If you want to do so, please crea
 module.exports = {
   shortName: 'gbcua',
   name: 'Game Boy Color Splash Up+A',
-  palette: ['#ffffff', '#ff8f84', '#943A3A', '#000000'],
+  palette: ['#ffffff', '#ff8f84', '#943a3a', '#000000'],
   origin: 'Wikipedia',
 };
 ```
