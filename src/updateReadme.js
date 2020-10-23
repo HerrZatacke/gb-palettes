@@ -2,10 +2,10 @@ const fs = require('fs');
 const path = require('path');
 
 const categories = {
-  Classic: require('./classic'),
-  Creative: require('./creative'),
-  Devices: require('./devices'),
-  GBColor: require('./gbcolor'),
+  classic: require('./classic'),
+  creative: require('./creative'),
+  devices: require('./devices'),
+  gbcolor: require('./gbcolor'),
 }
 const all = require('./main');
 

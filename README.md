@@ -4,13 +4,16 @@
 `npm install gb-palettes`
 
 Importing all palettes:  
-`const palettes = require('gb-palettes');` / `import palettes from 'gb-palettes';`  
+`const palettes = require('gb-palettes');`  
+`import palettes from 'gb-palettes';`  
 
 Importing a subset:  
-`const devicePalettes = require('gb-palettes/devices.js');` / `import devicePalettes from 'gb-palettes/devices.js';`  
+`const devicePalettes = require('gb-palettes/devices.js');`  
+`import devicePalettes from 'gb-palettes/devices.js';`  
 
 Importing a single palette:  
-`const gbPocketColors = require('gb-palettes/palettes/gbpocket.js');` / `import gbPocketColors from 'gb-palettes/palettes/gbpocket.js';`  
+`const gbPocketColors = require('gb-palettes/palettes/gbpocket.js');`  
+`import gbPocketColors from 'gb-palettes/palettes/gbpocket.js';`  
 
 ## List of Palettes
 <!-- LIST_START -->
