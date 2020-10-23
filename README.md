@@ -87,9 +87,9 @@ module.exports = {
   origin: 'Wikipedia',
 };
 ```
-* Make sure your contribution matches the rules in the editorconfig
-* Use singlequotes
+* Make sure your contribution matches the rules in the `.editorconfig`.
+* Use singlequotes.
 * Provide a `shortName` which can be used as a vaild ID in html and as a javascript object key. Also, make sure the shortName matches the filename of your palette file.
-* Provide a descriptive and informational human readable `name` yor your palette
-* Provide the Hex-Values in lowercase with six characters
-* If possible, provide the `origin` of your palette. (source/creator/if you created it yourself, use `by YourName`)
+* Provide a descriptive and informational human readable `name` yor your palette* Provide the Hex-Values in lowercase with six characters.
+* If possible, provide the `origin` of your palette. (source/creator/if you created it yourself, use `by YourName`).
+* Before submitting your pull-request run `npm run readme` to update the table of palettes.
