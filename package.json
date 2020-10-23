@@ -1,0 +1,29 @@
+{
+  "name": "gb-palettes",
+  "version": "1.0.0",
+  "description": "A collection of 4-color palettes",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HerrZatacke/gb-palettes.git"
+  },
+  "keywords": [
+    "gameboy",
+    "gameboyprinter",
+    "gameboycamera",
+    "pocketprinter",
+    "pocketcamera",
+    "palette",
+    "2bit"
+  ],
+  "author": {
+    "name": "Herr_Zatacke"
+  },
+  "license": "MIT"
+}
