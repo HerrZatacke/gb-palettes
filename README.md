@@ -7,13 +7,13 @@ Importing all palettes:
 `const palettes = require('gb-palettes');`  
 `import palettes from 'gb-palettes';`  
 
-Importing a subset:  
-`const devicePalettes = require('gb-palettes/devices.js');`  
-`import devicePalettes from 'gb-palettes/devices.js';`  
+Importing a subset (see categories in table below):  
+`const devicePalettes = require('gb-palettes/src/devices.js');`  
+`import devicePalettes from 'gb-palettes/src/devices.js';`  
 
 Importing a single palette:  
-`const gbPocketColors = require('gb-palettes/palettes/gbpocket.js');`  
-`import gbPocketColors from 'gb-palettes/palettes/gbpocket.js';`  
+`const gbPocketColors = require('gb-palettes/src/palettes/gbpocket.js');`  
+`import gbPocketColors from 'gb-palettes/src/palettes/gbpocket.js';`  
 
 ## List of Palettes
 <!-- LIST_START -->
