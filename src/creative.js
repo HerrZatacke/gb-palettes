@@ -38,4 +38,5 @@ module.exports = [
   require('./palettes/hipster.js'),
   require('./palettes/nc.js'),
   require('./palettes/glmo.js'),
+  require('./palettes/tpa.js'),
 ];

@@ -74,6 +74,7 @@ Importing a single palette:
 | hipster | Artistic Caffeinated Lactose | ![hipster](previews/hipster.svg "Palette: hipster") | creative | by HerrZatacke |
 | nc | Nortorious Comandante | ![nc](previews/nc.svg "Palette: nc") | creative | by HerrZatacke |
 | glmo | Glowing Mountains | ![glmo](previews/glmo.svg "Palette: glmo") | creative | by HerrZatacke |
+| tpa | Tramonto al Parco degli Acquedotti | ![tpa](previews/tpa.svg "Palette: tpa") | creative | delma |
 <!-- LIST_END -->
 
 ## contributing
