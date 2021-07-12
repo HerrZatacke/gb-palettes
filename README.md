@@ -23,6 +23,7 @@ Importing a single palette:
 | dmg | Original Game Boy | ![dmg](previews/dmg.svg "Palette: dmg") | classic, devices |  |
 | gbpocket | Game Boy Pocket | ![gbpocket](previews/gbpocket.svg "Palette: gbpocket") | classic, devices |  |
 | bgb | BGB Emulator | ![bgb](previews/bgb.svg "Palette: bgb") | classic |  |
+| gbli | Game Boy Light | ![gbli](previews/gbli.svg "Palette: gbli") | classic, devices | by HerrZatacke |
 | grafixkidgray | Grafixkid Gray | ![grafixkidgray](previews/grafixkidgray.svg "Palette: grafixkidgray") | creative |  |
 | grafixkidgreen | Grafixkid Green | ![grafixkidgreen](previews/grafixkidgreen.svg "Palette: grafixkidgreen") | creative |  |
 | blackzero | Game Boy (Black Zero) palette | ![blackzero](previews/blackzero.svg "Palette: blackzero") | creative |  |

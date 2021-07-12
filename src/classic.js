@@ -3,4 +3,5 @@ module.exports = [
   require('./palettes/dmg.js'),
   require('./palettes/gbpocket.js'),
   require('./palettes/bgb.js'),
+  require('./palettes/gbli.js'),
 ];

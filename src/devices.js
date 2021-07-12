@@ -2,6 +2,7 @@ module.exports = [
   require('./palettes/bw.js'),
   require('./palettes/dmg.js'),
   require('./palettes/gbpocket.js'),
+  require('./palettes/gbli.js'),
   require('./palettes/gbcjp.js'),
   require('./palettes/gbcua.js'),
   require('./palettes/gbcub.js'),

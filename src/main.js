@@ -3,6 +3,7 @@ module.exports = [
   require('./palettes/dmg.js'),
   require('./palettes/gbpocket.js'),
   require('./palettes/bgb.js'),
+  require('./palettes/gbli.js'),
   require('./palettes/grafixkidgray.js'),
   require('./palettes/grafixkidgreen.js'),
   require('./palettes/blackzero.js'),
