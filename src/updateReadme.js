@@ -10,6 +10,8 @@ const categories = {
 const all = require('./main');
 
 const readmePath = path.join(process.cwd(), 'README.md');
+const formatsPath = path.join(process.cwd(), 'src', 'formats');
+const jsonPath = path.join(formatsPath, 'palettes.json');
 
 const readme = fs.readFileSync(readmePath, { encoding: 'utf8' });
 
@@ -47,3 +49,7 @@ const mdTable = all.map(({
 });
 
 fs.writeFileSync(readmePath, readme.replace(/<!-- LIST_START.*LIST_END -->/gms, tokenStart.concat(mdTableHead, ...mdTable, tokenEnd)), { encoding: 'utf8' });
+
+fs.mkdirSync(formatsPath);
+
+fs.writeFileSync(jsonPath, JSON.stringify(all, null, 2), { encoding: 'utf8' });
