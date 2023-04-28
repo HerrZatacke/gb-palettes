@@ -1,10 +1,11 @@
 {
   "name": "gb-palettes",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "A collection of 4-color palettes",
   "main": "src/main.js",
   "scripts": {
-    "readme": "node src/updateReadme.js"
+    "readme": "node src/updateReadme.js",
+    "prepublish": "node src/updateReadme.js"
   },
   "files": [
     "src"

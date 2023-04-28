@@ -50,6 +50,8 @@ const mdTable = all.map(({
 
 fs.writeFileSync(readmePath, readme.replace(/<!-- LIST_START.*LIST_END -->/gms, tokenStart.concat(mdTableHead, ...mdTable, tokenEnd)), { encoding: 'utf8' });
 
-fs.mkdirSync(formatsPath);
+try {
+  fs.mkdirSync(formatsPath);
+} catch (err) { /*dir already exists*/ }
 
 fs.writeFileSync(jsonPath, JSON.stringify(all, null, 2), { encoding: 'utf8' });
