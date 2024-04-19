@@ -1,6 +1,6 @@
 {
   "name": "gb-palettes",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "A collection of 4-color palettes",
   "main": "src/main.js",
   "scripts": {
