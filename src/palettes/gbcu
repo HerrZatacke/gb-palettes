@@ -1,6 +1,6 @@
 module.exports = {
-  shortName: 'gbcjp',
-  name: 'Game Boy Color Splash Up (PocketCamera, JP)',
+  shortName: 'gbcu',
+  name: 'Game Boy Color Splash Up',
   palette: ['#ffffff', '#ffad63', '#833100', '#000000'],
   origin: 'Wikipedia',
 };
