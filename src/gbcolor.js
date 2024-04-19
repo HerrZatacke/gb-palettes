@@ -1,5 +1,6 @@
 module.exports = [
   require('./palettes/gbcjp.js'),
+  require('./palettes/gbcu.js'),
   require('./palettes/gbcua.js'),
   require('./palettes/gbcub.js'),
   require('./palettes/gbcl.js'),

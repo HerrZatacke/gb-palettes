@@ -27,7 +27,8 @@ Importing a single palette:
 | grafixkidgray | Grafixkid Gray | ![grafixkidgray](previews/grafixkidgray.svg "Palette: grafixkidgray") | creative |  |
 | grafixkidgreen | Grafixkid Green | ![grafixkidgreen](previews/grafixkidgreen.svg "Palette: grafixkidgreen") | creative |  |
 | blackzero | Game Boy (Black Zero) palette | ![blackzero](previews/blackzero.svg "Palette: blackzero") | creative |  |
-| gbcjp | Game Boy Color Splash Up (PocketCamera, JP) | ![gbcjp](previews/gbcjp.svg "Palette: gbcjp") | devices, gbcolor | Wikipedia |
+| gbcjp | PocketCamera, JP | ![gbcjp](previews/gbcjp.svg "Palette: gbcjp") | devices, gbcolor |  |
+| gbcu | Game Boy Color Splash Up | ![gbcu](previews/gbcu.svg "Palette: gbcu") | devices, gbcolor | Wikipedia |
 | gbcua | Game Boy Color Splash Up+A | ![gbcua](previews/gbcua.svg "Palette: gbcua") | devices, gbcolor | Wikipedia |
 | gbcub | Game Boy Color Splash Up+B | ![gbcub](previews/gbcub.svg "Palette: gbcub") | devices, gbcolor | Wikipedia |
 | gbcl | Game Boy Color Splash Left | ![gbcl](previews/gbcl.svg "Palette: gbcl") | devices, gbcolor | Wikipedia |
