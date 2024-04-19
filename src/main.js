@@ -8,6 +8,7 @@ module.exports = [
   require('./palettes/grafixkidgreen.js'),
   require('./palettes/blackzero.js'),
   require('./palettes/gbcjp.js'),
+  require('./palettes/gbcu.js'),
   require('./palettes/gbcua.js'),
   require('./palettes/gbcub.js'),
   require('./palettes/gbcl.js'),
