@@ -1,6 +1,6 @@
 module.exports = {
   shortName: 'gbceuus',
   name: 'Game Boy Color Splash Right+A (Game Boy Camera, EU/US)',
-  palette: ['#ffffff', '#7bff30', '#0163c6', '#000000'],
-  origin: 'Wikipedia',
+  palette: ['#ffffff', '#7bff31', '#0063c5', '#000000'],
+  origin: 'The Cutting Room Floor',
 };
