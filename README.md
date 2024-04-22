@@ -28,18 +28,18 @@ Importing a single palette:
 | grafixkidgreen | Grafixkid Green | ![grafixkidgreen](previews/grafixkidgreen.svg "Palette: grafixkidgreen") | creative |  |
 | blackzero | Game Boy (Black Zero) palette | ![blackzero](previews/blackzero.svg "Palette: blackzero") | creative |  |
 | gbcjp | PocketCamera, JP | ![gbcjp](previews/gbcjp.svg "Palette: gbcjp") | devices, gbcolor |  |
-| gbcu | Game Boy Color Splash Up | ![gbcu](previews/gbcu.svg "Palette: gbcu") | devices, gbcolor | Wikipedia |
-| gbcua | Game Boy Color Splash Up+A | ![gbcua](previews/gbcua.svg "Palette: gbcua") | devices, gbcolor | Wikipedia |
-| gbcub | Game Boy Color Splash Up+B | ![gbcub](previews/gbcub.svg "Palette: gbcub") | devices, gbcolor | Wikipedia |
-| gbcl | Game Boy Color Splash Left | ![gbcl](previews/gbcl.svg "Palette: gbcl") | devices, gbcolor | Wikipedia |
-| gbcla | Game Boy Color Splash Left+A | ![gbcla](previews/gbcla.svg "Palette: gbcla") | devices, gbcolor | Wikipedia |
-| gbclb | Game Boy Color Splash Left+B | ![gbclb](previews/gbclb.svg "Palette: gbclb") | devices, gbcolor | Wikipedia |
-| gbcd | Game Boy Color Splash Down | ![gbcd](previews/gbcd.svg "Palette: gbcd") | devices, gbcolor | Wikipedia |
-| gbcda | Game Boy Color Splash Down+A | ![gbcda](previews/gbcda.svg "Palette: gbcda") | devices, gbcolor | Wikipedia |
-| gbcdb | Game Boy Color Splash Down+B | ![gbcdb](previews/gbcdb.svg "Palette: gbcdb") | devices, gbcolor | Wikipedia |
-| gbcr | Game Boy Color Splash Right | ![gbcr](previews/gbcr.svg "Palette: gbcr") | devices, gbcolor | Wikipedia |
-| gbceuus | Game Boy Color Splash Right+A (Game Boy Camera, EU/US) | ![gbceuus](previews/gbceuus.svg "Palette: gbceuus") | devices, gbcolor | Wikipedia |
-| gbcrb | Game Boy Color Splash Right+B | ![gbcrb](previews/gbcrb.svg "Palette: gbcrb") | devices, gbcolor | Wikipedia |
+| gbcu | Game Boy Color Splash Up | ![gbcu](previews/gbcu.svg "Palette: gbcu") | devices, gbcolor | The Cutting Room Floor |
+| gbcua | Game Boy Color Splash Up+A | ![gbcua](previews/gbcua.svg "Palette: gbcua") | devices, gbcolor | The Cutting Room Floor |
+| gbcub | Game Boy Color Splash Up+B | ![gbcub](previews/gbcub.svg "Palette: gbcub") | devices, gbcolor | The Cutting Room Floor |
+| gbcl | Game Boy Color Splash Left | ![gbcl](previews/gbcl.svg "Palette: gbcl") | devices, gbcolor | The Cutting Room Floor |
+| gbcla | Game Boy Color Splash Left+A | ![gbcla](previews/gbcla.svg "Palette: gbcla") | devices, gbcolor | The Cutting Room Floor |
+| gbclb | Game Boy Color Splash Left+B | ![gbclb](previews/gbclb.svg "Palette: gbclb") | devices, gbcolor | The Cutting Room Floor |
+| gbcd | Game Boy Color Splash Down | ![gbcd](previews/gbcd.svg "Palette: gbcd") | devices, gbcolor | The Cutting Room Floor |
+| gbcda | Game Boy Color Splash Down+A | ![gbcda](previews/gbcda.svg "Palette: gbcda") | devices, gbcolor | The Cutting Room Floor |
+| gbcdb | Game Boy Color Splash Down+B | ![gbcdb](previews/gbcdb.svg "Palette: gbcdb") | devices, gbcolor | The Cutting Room Floor |
+| gbcr | Game Boy Color Splash Right | ![gbcr](previews/gbcr.svg "Palette: gbcr") | devices, gbcolor | The Cutting Room Floor |
+| gbceuus | Game Boy Color Splash Right+A (Game Boy Camera, EU/US) | ![gbceuus](previews/gbceuus.svg "Palette: gbceuus") | devices, gbcolor | The Cutting Room Floor |
+| gbcrb | Game Boy Color Splash Right+B | ![gbcrb](previews/gbcrb.svg "Palette: gbcrb") | devices, gbcolor | The Cutting Room Floor |
 | cybl | Cyanide Blues | ![cybl](previews/cybl.svg "Palette: cybl") | creative | by HerrZatacke |
 | aqpp | Audi Quattro Pikes Peak | ![aqpp](previews/aqpp.svg "Palette: aqpp") | creative |  |
 | wtfp | Waterfront Plaza | ![wtfp](previews/wtfp.svg "Palette: wtfp") | creative |  |
