@@ -3,6 +3,7 @@
   "version": "1.0.12",
   "description": "A collection of 4-color palettes",
   "main": "src/main.js",
+  "types": "src/main.d.ts",
   "scripts": {
     "readme": "node src/updateReadme.js",
     "prepublish": "node src/updateReadme.js"
