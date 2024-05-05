@@ -5,6 +5,6 @@ interface GbPalette {
   origin: string,
 }
 
-type GbPalettes = GbPalette[];
+declare const gbPalettes: GbPalette[]
 
-export { GbPalette, GbPalettes, GbPalettes as default };
+export { GbPalette, gbPalettes as default };
